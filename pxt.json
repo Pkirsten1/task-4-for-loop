@@ -1,5 +1,6 @@
 {
     "name": "Project 1Task 4 for loop",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
