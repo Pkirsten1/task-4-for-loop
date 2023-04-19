@@ -10,11 +10,4 @@ input.onButtonPressed(Button.A, function () {
         basic.showIcon(IconNames.SmallSquare)
         basic.showIcon(IconNames.Square)
     }
-    basic.showLeds(`
-        . . . . .
-        . . . . .
-        . . . . .
-        . . . . .
-        . . . . .
-        `)
 })
